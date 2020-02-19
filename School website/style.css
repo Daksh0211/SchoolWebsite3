@@ -1,0 +1,17 @@
+h1 { 
+    font-variant: small; 
+}
+h1{
+    color: #ffffff
+}
+
+
+.header{
+    background-color: rgb(29, 0, 134);
+    display : flex ; 
+    justify-content :space-between;
+  }
+
+  body{
+      background-color: #f450e2
+  }
